@@ -1,3 +1,3 @@
 # LPN_exercies
 This repository serves as a solution base for tougher exercises from Learn Prolog Now! online course as means of practising different programming paradigms.
-Examples here shall be solved in SWI-Prolog as well as in other languages of my choice (most likely it will be C, Python and a functional programming language, most likely Haskell, although this is subject to a possible change).
+Examples here shall be solved in SWI-Prolog as well as in other languages of my choice (most likely C, Python and a functional programming language of personal choice, propably Haskell, although this is subject to a possible change).
