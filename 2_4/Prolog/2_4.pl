@@ -16,7 +16,7 @@ crossword(V1, V2, V3, H1, H2, H3) :-
 	word(V2, _, B, _, E, _, H, _),
 	word(V3, _, C, _, F, _, I, _),
 	
-%	I assumed that words shouldn't dupliace in the crossword, hence this chunk of code
+%	I assumed that words shouldn't duplicate in the crossword, hence this chunk of code
 %	to prevent variables from sharing the same value.
 	
 	V1 \= V2, V1 \= V3, V1 \= H1, V1 \= H2, V1 \= H3,
